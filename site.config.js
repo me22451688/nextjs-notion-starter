@@ -23,7 +23,7 @@ module.exports = {
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: favicon.ico,
+  defaultPageIcon: https://gitpages.gitee.io/hncaa.ico,
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
