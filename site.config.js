@@ -12,14 +12,14 @@ module.exports = {
   author: 'TZH001',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  description: '进步大叔',
+  socialImageTitle: 'HNcaa',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'hncaa',
+  github: 'me22451688',
+  linkedin: 'hncaa',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
