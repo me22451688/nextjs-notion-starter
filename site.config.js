@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'HNcaa.cn',
-  domain: 'hncaa.cn',
+  domain: 'www.hncaa.cn',
   author: 'TZH001',
 
   // open graph metadata (optional)
