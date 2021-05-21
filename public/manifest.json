@@ -1,7 +1,8 @@
 {
   "name": "TZH001",
   "short_name": "TZH001",
-  "icons": [
+ /*
+ "icons": [
     {
       "src": "/favicon-16x16.png",
       "type": "image/png",
@@ -33,6 +34,7 @@
       "type": "image/png"
     }
   ],
+  */ 
   "theme_color": "#F898B9",
   "background_color": "#ffffff",
   "display": "standalone"
