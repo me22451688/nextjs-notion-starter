@@ -92,8 +92,7 @@ export class ReactUtterances extends React.Component<
     } else {
       scriptElement.setAttribute('issue-term', issueMap)
     }
-
-    // TODO: Check current availability
+    
     this.scriptElement = scriptElement
     this.reference.current.appendChild(scriptElement)
   }
