@@ -11,7 +11,7 @@ export const GitHubShareButton: React.FC = () => {
       className={styles.githubCorner}
       aria-label='View source on GitHub'
     >
-// 右上角图标大小
+    // TODO: 右上角图标尺寸
       <svg
         width='0'
         height='0'
